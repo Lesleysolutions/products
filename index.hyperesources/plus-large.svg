@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>plus-large</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="plus-large" fill="#53BBBC" fill-rule="nonzero">
-            <path d="M488,232 C501.3,232 512,242.7 512,256 C512,269.3 501.3,280 488,280 L280,280 L280,488 C280,501.3 269.3,512 256,512 C242.7,512 232,501.3 232,488 L232,280 L24,280 C10.7,280 0,269.3 0,256 C0,242.7 10.7,232 24,232 L232,232 L232,24 C232,10.7 242.7,0 256,0 C269.3,0 280,10.7 280,24 L280,232 L488,232 Z" id="Path"></path>
-        </g>
-    </g>
-</svg>
